@@ -21,3 +21,6 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Encriptacion y Desencriptacion Base64/nbproject/private/
+/Encriptacion y Desencriptacion Base64/build/
+/Encriptacion y Desencriptacion Base64/dist/
